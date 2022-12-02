@@ -30,7 +30,7 @@ This is a project to recreate some part of Airbnb. (Mostly Admin Side) only one 
 
 ## Environment
 This project is interpreted/tested on Ubuntu 20.04 LTS using python3 (version 3.8.10)
-
+* API DOCS : http://127.0.0.1:5001/apidocs/
 
 ## Installation
 * Clone this repository: `git clone "https://github.com/alexaorrico/AirbnbClone.git"`
